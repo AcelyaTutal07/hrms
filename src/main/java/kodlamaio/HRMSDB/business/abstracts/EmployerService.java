@@ -5,4 +5,5 @@ import kodlamaio.HRMSDB.entites.concretes.Employer;
 
 public interface EmployerService extends UserService<Employer> {
 
+	
 }

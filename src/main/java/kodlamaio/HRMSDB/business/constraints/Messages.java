@@ -23,6 +23,10 @@ public class Messages {
 		public static String activationConfirmed = "Hesap doğrulandı";
 		public static String codeVerified = "Aktivasyon kod doğrulaması başarılı";
 		public static String domainNotEqual = "Domain uyuşmuyor!";
+		public static String jobAdvertisementListed = "Aktif iş ilanlarıni listele";
+		public static String jobAdvertisementListedByLastDate = "İş ilanlarını son tarihe göre listele";
+		public static String jobAdversitementListedByCompany = "Firmadaki iş ilanlarını listele";
+		public static String citiesListed = "Şehirler Listelendi";
 }
 
 

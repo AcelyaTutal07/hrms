@@ -27,4 +27,4 @@ public class CandidateController {
 	}
 	
 }
-//deneme
+
