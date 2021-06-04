@@ -30,7 +30,7 @@ public class LanguageLevel {
 	@Column(name="language_level_id")
 	private int languageLevelId;
 	
-	@Column(name="language_level_name")
+	@Column(name="language_level")
 	private String languageLevelName;
 	
 	@JsonIgnore

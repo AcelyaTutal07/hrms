@@ -26,10 +26,10 @@ public class CandidateWorkplacePosition {
 	@Column(name="candidate_work_id")
 	private int candidateWorkId;
 
-	@Column(name=" date_of_entry date")
+	@Column(name="date_of_entry")
 	private LocalDate dateOfEntry;
 	
-	@Column(name="date_of_quit date")
+	@Column(name="date_of_quit")
 	private LocalDate dateOfQuit;
 	
 	@ManyToOne
